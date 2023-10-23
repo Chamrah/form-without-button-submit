@@ -1,0 +1,18 @@
+.container{
+    border: groove;
+    border-top-right-radius: 60px;
+    width: 55%;
+    border-color: goldenrod;
+    background-color: lightblue;
+}
+table{
+    padding: 10px;
+}
+th{
+    color: blue;
+    text-decoration: underline;
+    text-decoration-color: palevioletred;
+}
+input{
+    padding-right: 50px;
+}
